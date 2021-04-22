@@ -2,15 +2,13 @@
 
 FancyWM is a dynamic tiling window manager for Windows 10. 
 
-<img align="right" src="https://store-images.s-microsoft.com/image/apps.49571.14517052119257390.7c7018e4-8171-4f73-89e6-64cadc3b5987.260642e6-9a85-4d3a-97b0-c7dd83533cf1?background=transparent&w=175&h=175&format=jpg">
+<img align="right" src="https://store-images.s-microsoft.com/image/apps.34592.14517052119257390.8536f3a8-2bfb-4dfa-804e-ade96e268d42.95820bbb-6b59-4848-83e2-cbe17b2e253b?background=%23000000&w=175&h=175&format=jpg">
 
 FancyWM neatly arranges your windows into a dynamic grid-like layout.
 Additional structure can be introduced by grouping windows into panels:
 - Horizontal panels (H key) arrange windows side by side
 - Vertical panels (V key) stacks windows vertically
 - Stack panels (S key) overlaps windows on top of each other
-
-FancyWM allows you to manage your desktop more efficiently, using your keyboard. FancyWM uses Windows [⊞] + Grave accent/Tilde [ ̃˴ ] as the start of a command sequence (Activation hotkey). To start a command sequence, press and release these keys simultaneously, then follow up by pressing one of the keybindings you have configured in the settings.
 
 FancyWM only manages restored (not minimized, not maximized) top-level application windows, so it doesn't interfere with popups, and still allows you to use all of your available display area for when you need to focus on a window.
 
