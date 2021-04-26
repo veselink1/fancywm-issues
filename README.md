@@ -3,7 +3,7 @@
 
 FancyWM is a dynamic tiling window manager for Windows 10. 
 
-<img align="right" src="https://store-images.s-microsoft.com/image/apps.34592.14517052119257390.8536f3a8-2bfb-4dfa-804e-ade96e268d42.95820bbb-6b59-4848-83e2-cbe17b2e253b?background=%23000000&w=175&h=175&format=jpg">
+<img align="right" src="https://store-images.s-microsoft.com/image/apps.53415.14517052119257390.d950e654-2004-4878-b902-94902f8f7a45.af24879e-636a-494c-ba1d-6ff7f858630b?background=transparent&w=175&h=175&format=jpg">
 
 FancyWM neatly arranges your windows into a dynamic grid-like layout.
 Additional structure can be introduced by grouping windows into panels:
